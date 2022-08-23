@@ -1,0 +1,4 @@
+% go
+
+# mockery, create mocked interfaces for given name
+mockery --name=<name> --inpackage --case=underscore
